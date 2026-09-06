@@ -1,0 +1,23 @@
+{
+  "repo": "kernelsu-android-root-suite",
+  "product": "KernelSU Android Root Suite",
+  "kind": "mobile",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "mobile",
+  "topics": [
+    "kernelsu",
+    "android-kernel-manager",
+    "module-loader",
+    "systemless-mods",
+    "device-admin",
+    "kernelsu-setup-failed-fix",
+    "how-to-install-kernelsu",
+    "kernelsu-windows",
+    "kernelsu-desktop-2026",
+    "kernelsu-desktop-package"
+  ],
+  "site": "toolix.me"
+}
